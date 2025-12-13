@@ -1,0 +1,21 @@
+# === LARAVEL ===
+/backend/vendor
+/backend/node_modules
+/backend/storage/*.key
+/backend/storage/framework/*
+/backend/storage/logs/*
+/backend/storage/app/public/*
+/backend/.env
+
+# === FRONTEND (Vite + React) ===
+/frontend/node_modules
+/frontend/dist
+/frontend/.env
+
+# === SYSTEM ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.vscode
+.idea
