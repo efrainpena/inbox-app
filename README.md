@@ -115,12 +115,15 @@ Razones:
 
  Capturas de Pantalla 
 http://localhost:5173/login
- 
+ <img width="684" height="559" alt="image" src="https://github.com/user-attachments/assets/b19b900c-5cdf-4abe-bccf-fcfab727f61e" />
+
 Descripción: Es el Loguin principal para iniciar sesión, por default esta el correo y el password cargado. Solo hay que presionar el botón de Entrar.
- 
+ <img width="921" height="340" alt="image" src="https://github.com/user-attachments/assets/40171c8c-df32-435a-a207-a3ef8182d668" />
+
 Es la pantalla principal, de lado izquierdo se crean los hilos donde describes el asunto y el mensaje, al crear un hilo se registra y queda almacenado en la base de datos, después es agregado de lado derecho de la pantalla.
 De lado derecho, es el listado de los hilos existentes dados de alta con anterioridad, al darle clic a cada hilo se envía al historial de todos los mensajes escritos en el hilo seleccionado.
- 
+ <img width="921" height="525" alt="image" src="https://github.com/user-attachments/assets/36e98fe2-79fe-4512-a492-6a622bdc4d43" />
+
 Al seleccionar el hilo se aparece como titulo resaltado en negrita y se muestra el listado completo de todos los mensajes resaltando el texto, la fecha y la hora del envió del mensaje, en la parte posterior podemos agregar nuevos textos al hilo y agregarlos con el botón inferior.
 
 
